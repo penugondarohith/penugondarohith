@@ -155,10 +155,10 @@ Here is a curated list of AI/ML systems and scalable applications I have built:
 
 ---
 
-## 🐍 Contribution Grid Snake
+## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/penugondarohith/penugondarohith/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://ghchart.rshah.org/39ff14/penugondarohith" alt="Rohith's GitHub Contribution Grid" />
 </div>
 
 ---
