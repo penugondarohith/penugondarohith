@@ -4,10 +4,10 @@
   # 🌌 PENUGONDA ROHITH
   
   <p align="center">
-    <a href="https://linkedin.com/in/penugonda-rohith-543250313"><img src="https://img.shields.io/badge/LinkedIn-penugonda--rohith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/penugondarohith/"><img src="https://img.shields.io/badge/LeetCode-penugondarohith-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-    <a href="https://www.geeksforgeeks.org/profile/penugondarohith"><img src="https://img.shields.io/badge/GeeksforGeeks-penugondarohith-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
-    <a href="mailto:penugondarohith@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/penugonda-rohith-543250313"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/penugondarohith/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="https://www.geeksforgeeks.org/profile/penugondarohith"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
+    <a href="mailto:penugondarohith@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <hr style="border: 1px solid #1f242c;" />
